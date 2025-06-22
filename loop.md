@@ -96,20 +96,14 @@
 
 ---
 
-# **Bài tập nâng cao**
+# **Bài tập vận dụng**
 
-10. **In các số từ 1 đến 100 chia hết cho 3 và 5.**
-11. **Tính tổng các số từ 1 đến n bằng vòng lặp.**
-12. **In bảng cửu chương từ 1 đến 9.**
-13. **Viết chương trình đảo ngược chuỗi.**
-14. **Kiểm tra số đối xứng (palindrome).**
-15. **In dãy Fibonacci tới số n.** 
-16. **Tính giai thừa của một số.**
-17. **Kiểm tra số nguyên tố trong một khoảng.**
-18. **Vẽ tam giác sao đầy.**
-19. **Tính tổng các chữ số của một số.**
-20. **Tìm số nguyên tố lớn nhất trong một mảng.**
-21. **Kiểm tra một số có phải là số hoàn hảo hay không.**
-22. **Viết chương trình kiểm tra một số có phải là số Armstrong không.**
-23. **Dùng vòng lặp lồng nhau để in hình chữ nhật bằng ký tự '\*'.**
-24. **Viết chương trình tìm bội số chung nhỏ nhất của hai số.**
+1. **In các số từ 1 đến 100 chia hết cho 3 và 5.**
+2. **Tính tổng các số từ 1 đến n bằng vòng lặp.**
+3. **In bảng cửu chương từ 1 đến 9.**
+4. **In dãy Fibonacci tới số n.**
+5. **Tính giai thừa của một số.**
+6. **Kiểm tra số nguyên tố trong một khoảng.**
+7. **Vẽ tam giác sao đầy.**
+8. **Kiểm tra một số có phải là số hoàn hảo hay không.**
+9. **Dùng vòng lặp lồng nhau để in hình chữ nhật bằng ký tự '\*'.**
