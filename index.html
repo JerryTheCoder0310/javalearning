@@ -20,14 +20,26 @@
       //   }
       // }
 
-      let i = -3;
-      while (i < 0) {
-        console.log("In ra i: ", i);
-        i++;
-      }
+      // let i = -3;
+      // while (i < 0) {
+      //   console.log("In ra i: ", i);
+      //   i++;
+      // }
       // -3 -2 -1
 
       // Đề bài: Trong khoảng từ 10 => 20. Cần cộng tổng tối đa của bao nhiêu số để tổng đó lớn hơn 60.
+      let i = 10;
+      let sum = 0;
+      let count = 0;
+      while (i <= 20 && sum <= 60) {
+        sum += i;
+        count += 1;
+        console.log(i);
+        i ++;
+      }
+      console.log('số lượng lớn nhất các số liên tiếp có thể được cộng lại > 60 là: ', count, sum)
+      // dạng bài có 3 biến(không phải 3 biến như ban đầu nghĩ - sum với i chưa đủ)
+
     </script>
   </body>
 </html>
